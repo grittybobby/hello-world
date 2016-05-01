@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello World,
+I would like to be go programmer. Is it possible?
